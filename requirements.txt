@@ -1,0 +1,6 @@
+crawl4ai
+openai
+python-dotenv
+pandas
+playwright
+groq
